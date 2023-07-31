@@ -1,0 +1,2 @@
+# Stress_detection_of_IT_emplyee_using_ML_imgprocessing
+using cnn algorithm and image processing
